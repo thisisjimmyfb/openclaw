@@ -1,0 +1,26 @@
+[
+  {
+    "Source": "",
+    "Title": "Software Engineer",
+    "Company": "Concentrate AI",
+    "Location": "",
+    "Salary": "? - ?",
+    "Date Posted": "nan",
+    "URL": "https://www.linkedin.com/jobs/view/4404884492",
+    "Description": "Concentrate provides one OpenAI-compatible API for accessing and managing AI at scale. Teams can access models across leading providers and open-source infrastructure through a single endpoint, select the best / fastest / most cost efficient model for each use case, improve reliability, lower token spend, strengthen data protection and security, and meet enterprise compliance requirements with built-in tooling. Backed by top-tier investors. Role Description",
+    "Date Scraped": "2026-04-21",
+    "Remote": false
+  },
+  {
+    "Source": "greenhouse",
+    "Title": "Machine Learning Engineer, Customer Support Engineering",
+    "Company": "airbnb",
+    "Location": "Remote-USA",
+    "Salary": "",
+    "Date Posted": "2026-04-20",
+    "URL": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+    "Description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic w",
+    "Date Scraped": "2026-04-21",
+    "Remote": true
+  }
+]
